@@ -11,4 +11,5 @@ download all file save into a folder name -> faster-whisper-base
 copy folder (faster-whisper-base) under to folder ->PotPlayerMini64\Model
 
 goto potplayer setting select engine is ->  Faster-Whisper-XXL
+
 goto potplayer setting select model is ->  base
